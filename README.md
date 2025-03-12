@@ -1,5 +1,8 @@
-# SPEED OF A DEMON IN DOOM 
-This repository contains two versions of a program that calculates the time it takes a specific type of Doom daemon to travel a given distance based on its speed, one version is in Python and the other is in C++.
-# PROGRAM DESCRIPTION
-The program asks the user to enter a type of demon (Zombieman, IMP or Baron Of Hell) and the distance the demon should run.
-After that the program assigns a speed to the demon according to its type and calculates the time it takes to travel a distance, in case the type of the demon is not valid, the program shows error.
+# VELOCIDAD DE UN DEMONIO EN DOOM
+Este repositorio contiene dos versiones de un programa que calcula el tiempo que tarda un tipo específico de demonio Doom en recorrer una distancia determinada en función de su velocidad, una versión está en Python y la otra en C++.
+# DESCRIPCIÓN DEL PROBLEMA
+El programa pide al usuario que introduzca un tipo de demonio (Zombieman, IMP o Baron Of Hell) y la distancia que el demonio debe correr.
+Después el programa asigna una velocidad al demonio según su tipo y calcula el tiempo que tarda en recorrer una distancia, en caso de que el tipo del demonio no sea válido, el programa muestra error.
+# PYTHON
+1. Navegue hasta el directorio Python
+   https://github.com/Z-I-K-Oo/Parcial-.git
