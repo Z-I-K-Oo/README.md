@@ -6,3 +6,5 @@ Después el programa asigna una velocidad al demonio según su tipo y calcula el
 # PYTHON
 1. Navegue hasta el directorio Python
    https://github.com/Z-I-K-Oo/Parcial-.git
+
+2.
